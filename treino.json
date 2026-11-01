@@ -1,0 +1,74 @@
+[
+  {
+    "categoria": "entrega",
+    "texto": "Meu pedido está atrasado e não chegou"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "Quero rastrear a entrega do pedido"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "O entregador foi para outro endereço"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "Minha encomenda não foi entregue"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "Qual o prazo de entrega da compra"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "O pacote chegou no endereço errado"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "Fui cobrado duas vezes no cartão"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "Meu pagamento por pix não foi confirmado"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "Preciso de reembolso da cobrança"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "O cartão foi recusado no pagamento"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "Quero estorno do valor pago"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "O boleto está pago mas consta pendente"
+  },
+  {
+    "categoria": "produto",
+    "texto": "O produto veio quebrado e com defeito"
+  },
+  {
+    "categoria": "produto",
+    "texto": "Recebi o tamanho errado da camiseta"
+  },
+  {
+    "categoria": "produto",
+    "texto": "Quero trocar o produto danificado"
+  },
+  {
+    "categoria": "produto",
+    "texto": "A qualidade do material está ruim"
+  },
+  {
+    "categoria": "produto",
+    "texto": "Meu tênis veio na cor errada"
+  },
+  {
+    "categoria": "produto",
+    "texto": "A peça está rasgada e preciso de troca"
+  }
+]

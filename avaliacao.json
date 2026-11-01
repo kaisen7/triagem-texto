@@ -1,0 +1,26 @@
+[
+  {
+    "categoria": "entrega",
+    "texto": "A entrega está atrasada no meu endereço"
+  },
+  {
+    "categoria": "entrega",
+    "texto": "Preciso rastrear meu pacote"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "O pix foi cobrado e quero reembolso"
+  },
+  {
+    "categoria": "pagamento",
+    "texto": "Preciso de estorno no cartão"
+  },
+  {
+    "categoria": "produto",
+    "texto": "A camiseta veio rasgada"
+  },
+  {
+    "categoria": "produto",
+    "texto": "O produto tem defeito e quero troca"
+  }
+]
